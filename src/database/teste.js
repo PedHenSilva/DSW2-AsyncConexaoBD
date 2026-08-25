@@ -1,5 +1,4 @@
-import CarroDB from './asyconexao.js';
-// Certifique-se de que o caminho está correto
+import CarroDB from './conexaoAsync.js';
 
 async function testarCRUD() {
     try {
