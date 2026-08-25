@@ -1,6 +1,6 @@
 # DSW2 - Async Conexão com Banco de Dados
 
-Projeto acadêmico da disciplina **Desenvolvimento Web 2** (FATEC), com o objetivo de demonstrar e comparar diferentes abordagens de conexão com banco de dados **MySQL** em **Node.js**: a forma tradicional baseada em _callbacks_ e a forma moderna baseada em _Promises_/`async-await`, expostas através de uma API construída com **Express**.
+Aplicação com objetivo de demonstrar e comparar diferentes abordagens de conexão com banco de dados **MySQL** em **Node.js**: a forma tradicional baseada em _callbacks_ e a forma moderna baseada em _Promises_/`async-await`, expostas através de uma API construída com **Express**.
 
 ## 🎯 Objetivo
 
